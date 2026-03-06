@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DateOperationsLib.Tests/DateOperationsLib.Tests.csproj" />
+  <Project Path="DateOperationsLib/DateOperationsLib.csproj" />
+</Solution>
